@@ -3,9 +3,10 @@ import './App.css';
 import Header from './Components/HeaderComponent';
 
 
+
 function App() {
   return (
-    
+    <Header />
   );
 }
 
